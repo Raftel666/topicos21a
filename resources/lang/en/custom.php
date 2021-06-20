@@ -1,0 +1,31 @@
+<?php
+
+return [
+
+    'name' => 'Name',
+    'email'     => 'Email Address',
+    'password' => 'Password',
+    'update-button' => 'Update',
+    'cancel-button' => 'Cancel',
+    'list-user' => 'User List',
+    'actions' => 'Actions',
+    'delete-button' => 'Delete',
+    'add-user-button' => 'Add User',
+    'edit-button' => 'Edit',
+    'users' => 'Users',
+    'home' => 'Home',
+    'login' => 'Login',
+    'notes' => 'Notes',
+    'logout' => 'Log Out',
+    'welcome' => 'Wellcome  ',
+    'logged' => 'You are logged in!!!',
+    'show' => 'Show',
+    'return' => 'Return',
+    'info' => 'Information',
+    'alert-message' => 'Are you sure?',
+    'aler-menssage2' => 'The data is going to be deleted',
+    'spanish'=>'Spanish',
+    'english' => 'English',
+    'dino' => 'Press "Space" to jump your Dino and start the game.',
+    'back' => 'Back',
+];
